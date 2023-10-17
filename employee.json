@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Sagun Pandey",
+		"name": "Arthur Kagoiya",
 		"id": 1,
-		"position": "C.E.O",
-		"department": "Executive",
+		"position": "Regional Manager",
+		"department": "Telecommunications",
 		"status": true
 	},
 	{
-		"name": "Ruraj Joshi",
+		"name": "Sushant Ambradar",
 		"id": 2,
-		"position": "C.O.O",
-		"department": "Marketing",
+		"position": "CE0",
+		"department": "Executive",
 		"status": false
 	},
 	{
-		"name": "Shashesh Silwal",
+		"name": "Oscar Omondi",
 		"id": 3,
 		"position": "Director",
 		"department": "Executive",
@@ -35,21 +35,21 @@
 		"status": true
 	},
 	{
-		"name": "Sandeep Rajbhandari",
+		"name": "Verinder Singh",
 		"id": 6,
-		"position": "Java Programmer",
-		"department": "Software",
+		"position": "Managing Director",
+		"department": "Executive",
 		"status": true
 	},
 	{
-		"name": "Sameep Chudal",
+		"name": "Gerald Njakai",
 		"id": 7,
 		"position": "Web Developer",
 		"department": "Software",
 		"status": true
 	},
 	{
-		"name": "Sushan Poudel",
+		"name": "Kimani Wamatangi",
 		"id": 8,
 		"position": "Firmware Programmer",
 		"department": "Hardware",
