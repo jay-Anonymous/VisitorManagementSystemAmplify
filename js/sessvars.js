@@ -87,7 +87,7 @@ sessvars=function(){
 			};
 			this.parent.$=t;
 			t.flush();
-			var f=function(){if(t.prefs.autoFlush){t.flush()}};
+			var f=function(){if(t.prefs.autoFlush){t.flush()}};r 
 			if(window["addEventListener"]){addEventListener("unload",f,false)}
 			else if(window["attachEvent"]){window.attachEvent("onunload",f)}
 			else {this.prefs.autoFlush=false};
